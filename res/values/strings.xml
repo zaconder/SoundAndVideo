@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sound And Video</string>
+    <string name="title_activity_video">VideoActivity</string>
+    <string name="PlayButton">Play</string>
+    <string name="play">play</string>
+
+</resources>
